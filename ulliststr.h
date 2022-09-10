@@ -112,6 +112,7 @@ class ULListStr {
    * Deletes all items in the list
    */
   void clear();
+ 
 
  private:
   /** 
